@@ -1,2 +1,2 @@
 # PRACTICAS_1
-Espacio para pracitcar.
+Espacio para practicar.
